@@ -1,0 +1,5 @@
+Nutzen von gitignore : .gitignore sagt zu git wleche Datei es ignorieren soll.Es wird verwendet, um die Datei , die für andere Nutzer nicht nutzlich sind.
+z.B temporäre Dateien.
+
+Was bedeutet zum Beispiel das *.pdf dort drin?
+ist ein Format, das verwendet wird, wenn jemand Dateien speichern will, die nicht geändert werden können, aber dennoch einfach freigegeben und gedruckt werden können.
